@@ -1,0 +1,27 @@
+*{}
+#wrapper{
+    background-color:#33BEFF;
+    margin-left:auto;
+    left: 0;
+    right: 0;
+    margin-right:auto;
+    border-color:#ffc433;
+    width:90%;
+    top:17px;
+    position:relative;
+    bottom:17px;
+}
+#footer{
+    position:fixed;
+    margin-top:10%;
+    margin-bottom:20px;
+    background-color:#C433FF;
+}
+.table{
+    border-color:#33FFBB;
+    
+}
+.centrar{
+    margin-right:auto;
+    margin-left:auto;
+}
